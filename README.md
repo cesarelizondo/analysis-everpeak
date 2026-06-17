@@ -8,14 +8,11 @@
 
 | Data Cleaning | Statistical Analysis |
 |---------------|----------------------|
-| <img width="1022" height="711" alt="limpieza" src="https://github.com/user-attachments/assets/89b6a2f4-2e1b-4147-bf87-49a848fc7969" /> | <img width="737" height="550" alt="resumen estadistico" src="https://github.com/user-attachments/assets/4f90edcb-b494-4fce-8079-c86be9f38e89" /> 
-|
+| <img width="1022" height="711" alt="limpieza" src="https://github.com/user-attachments/assets/89b6a2f4-2e1b-4147-bf87-49a848fc7969" /> | <img width="737" height="550" alt="resumen estadistico" src="https://github.com/user-attachments/assets/4f90edcb-b494-4fce-8079-c86be9f38e89" /> |
 
 | Outlier Detection | Customer Segmentation |
 |-------------------|-----------------------|
-| <img width="526" height="455" alt="boxplot de cantidades - categoria sports" src="https://github.com/user-attachments/assets/59f4e3e4-a101-42d8-b777-c7a2e5f1bd36" />
- | <img width="516" height="612" alt="segmmentacion" src="https://github.com/user-attachments/assets/030687b8-6427-4524-9345-6c5035e1c091" />
- |
+| <img width="526" height="455" alt="boxplot de cantidades - categoria sports" src="https://github.com/user-attachments/assets/59f4e3e4-a101-42d8-b777-c7a2e5f1bd36" /> | <img width="516" height="612" alt="segmmentacion" src="https://github.com/user-attachments/assets/030687b8-6427-4524-9345-6c5035e1c091" /> |
 
 ## 🔍 Key Insights
 
